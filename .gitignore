@@ -1,0 +1,19 @@
+
+# macOS
+.DS_Store
+
+# Python
+venv/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data/outputs (keep if you truly need to version data)
+*.parquet
+*.csv
+*.zip
